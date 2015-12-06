@@ -1,6 +1,6 @@
 {
     "name": "mikk150/yii2-whmcs",
-    "requires" :{
+    "require" :{
         "yiisoft/yii2": ">=2.0",
         "amenophis/whmcs-connector": "dev-master"
     },
