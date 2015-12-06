@@ -1,0 +1,12 @@
+{
+    "name": "mikk150/yii2-whmcs",
+    "requires" :{
+        "yiisoft/yii2": ">=2.0",
+        "amenophis/whmcs-connector": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "mikk150\\whmcs\\": ""
+        }
+    }
+}
